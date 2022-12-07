@@ -12,6 +12,10 @@ public class giris {
 	    System.out.println("Nasilsin?");
 	    
 	    System.out.println("Iyi misin?");
+		
+		
+		   System.out.println("Iyiyim, orda hersey yolunda mi?");
+		
 	    
 	
 	}
