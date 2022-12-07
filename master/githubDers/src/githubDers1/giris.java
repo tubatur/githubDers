@@ -6,6 +6,8 @@ public class giris {
 		// TODO Auto-generated method stub
 
 		System.out.println("Merhaba Github");
+		
+		System.out.println("sana da merhaba");
 	}
 
 }
