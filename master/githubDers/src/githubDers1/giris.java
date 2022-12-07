@@ -10,6 +10,7 @@ public class giris {
 		System.out.println("sana da merhaba");
 	
 	    System.out.println("Nasilsin?");
+	    
 	
 	}
 	
