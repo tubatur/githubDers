@@ -8,6 +8,8 @@ public class giris {
 		System.out.println("Merhaba Github");
 		
 		System.out.println("sana da merhaba");
-	}
+	
+	    System.out.println("Nasilsin?");
+	    
 
-}
+}}
