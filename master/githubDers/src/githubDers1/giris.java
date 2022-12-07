@@ -11,6 +11,8 @@ public class giris {
 	
 	    System.out.println("Nasilsin?");
 	    
+	    System.out.println("Iyi misin?");
+	    
 	
 	}
 	
